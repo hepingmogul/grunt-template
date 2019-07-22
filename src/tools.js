@@ -1,1 +1,2 @@
-console.log('我是 tools.js')
+console.log
+('我是 tools.js')

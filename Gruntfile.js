@@ -52,6 +52,8 @@ module.exports = (grunt) => {
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
+  // grunt.loadNpmTasks('grunt-contrib-jshint');
+
   // 默认任务
   grunt.registerTask('default', ['concat', 'uglify']);
 }
