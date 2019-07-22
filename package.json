@@ -1,0 +1,27 @@
+{
+  "name": "grunt-template",
+  "version": "1.0.0",
+  "description": "es5文件代码合并",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hepingmogul/grunt-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hepingmogul/grunt-template/issues"
+  },
+  "homepage": "https://github.com/hepingmogul/grunt-template#readme",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
